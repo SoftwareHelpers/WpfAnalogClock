@@ -34,7 +34,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Clock-Icon.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -100,10 +101,7 @@
     <Resource Include="backGround.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Clock-Icon.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Clock-Icon.ico" />
+    <Resource Include="Clock.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
