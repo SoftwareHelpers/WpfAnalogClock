@@ -31,7 +31,7 @@
                 <DropShadowEffect Color="#AAAAAA" Opacity="2" Direction="-40" RenderingBias="Quality" ShadowDepth="3" />
             </Ellipse.Effect>
         </Ellipse>
-        <TextBlock Text="1" Margin="171,34,73,203" Style="{StaticResource TextStyle}"/>
+        <TextBlock Text="1" Margin="171,34,73,204" Style="{StaticResource TextStyle}"/>
         <TextBlock Text="2" Margin="0,68,35,32"  HorizontalAlignment="Right"   Style="{StaticResource TextStyle}"  />
         <TextBlock Text="3" Margin="20"  HorizontalAlignment="Right" VerticalAlignment="Center"  Style="{StaticResource TextStyle}"  />
         <TextBlock Text="4" Margin="0,168,35,-68"  HorizontalAlignment="Right"   Style="{StaticResource TextStyle}"  />
